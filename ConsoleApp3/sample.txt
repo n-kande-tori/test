@@ -1,1 +1,2 @@
 ﻿sample.txtを追加しました。
+wonderful
