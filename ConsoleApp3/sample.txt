@@ -1,3 +1,4 @@
 ﻿sample.txtを追加しました。
 wonderful
 develop1
+develop2
